@@ -34,7 +34,7 @@ public class TestDevopsWebAPI {
 	@Autowired
 	private MockMvc mockMvc;
 
-	BaseObj model = new BaseObj("2034", "DEVOPS Accelerator", "Yozy Technologies India");
+	BaseObj model = new BaseObj("2034", "DEVOPS Accelerator", "Yozy Technologies LLP,India");
 
 	@Before
 	public void beforeMethod() {
