@@ -1,4 +1,4 @@
-package com.soprasteria.devops;
+package com.yozy.devops;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
