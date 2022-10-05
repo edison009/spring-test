@@ -1,4 +1,4 @@
-package com.soprasteria.devops;
+package com.yozy.devops;
 
 import static org.junit.Assert.assertEquals;
 
